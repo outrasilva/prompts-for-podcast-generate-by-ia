@@ -64,7 +64,23 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+## 👨‍💻 Desenvolvedor
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/145709183?v=4"
+    />
+    <p>&nbsp&nbsp&nbspJessica Silva<br>
+    &nbsp&nbsp&nbsp
+        <a href="https://github.com/outrasilva">GitHub</a>&nbsp;|&nbsp;
+        <a href="https://www.linkedin.com/in/jessicamariasilva1995">LinkedIn</a>&nbsp;|&nbsp;
+</p>
+<br/><br/>
+
+## 👨‍🏫 Professor
 
 <p>
     <img 
