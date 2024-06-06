@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/capaGit.png"
-    width="300"
+    width="500"
 />
 </p>
 
@@ -38,7 +38,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Criador de Imagens do Bing](https://www.bing.com/images/create?cc=br)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -46,7 +46,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Criador de Imagens do Bing ara gerar a personagem principal
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -62,9 +62,25 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `criador de Imagens do Bing`
 
-## 👨‍💻 Expert
+## 👨‍💻 Desenvolvedor
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/145709183?v=4"
+    />
+    <p>&nbsp&nbsp&nbspJessica Silva<br>
+    &nbsp&nbsp&nbsp
+        <a href="https://github.com/outrasilva">GitHub</a>&nbsp;|&nbsp;
+        <a href="https://www.linkedin.com/in/jessicamariasilva1995">LinkedIn</a>&nbsp;|&nbsp;
+</p>
+<br/><br/>
+
+## 👨‍🏫 Professor
 
 <p>
     <img 
