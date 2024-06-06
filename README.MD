@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/capaGit.png"
-    width="300"
+    width="500"
 />
 </p>
 
